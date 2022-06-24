@@ -1,2 +1,0 @@
-package pack07_class_advanced
-

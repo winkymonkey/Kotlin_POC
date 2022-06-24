@@ -1,2 +1,0 @@
-package pack05_classAndObject
-
